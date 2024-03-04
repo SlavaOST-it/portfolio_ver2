@@ -33,32 +33,7 @@ export const dotsLoader = keyframes`
   }
 `
 
-
-//============ Effect ================//
-// export const effectAnimation = keyframes`
-//   from {
-//     opacity: 0;
-//     transform: translateY(-100px)
-//   }
-//   to {
-//     opacity: 1;
-//     transform: translateY(0)
-//   }
-// `
-// export const effectAnimation = keyframes`
-//   0% {
-//     -webkit-transform: translateY(6000px);
-//     transform: translateY(6000px);
-//   }
-//   100% {
-//     -webkit-transform: translateY(0);
-//     transform: translateY(0);
-//   }
-// `
-
 //============ Effect Name ================//
-
-
 export const trackingInExpand = keyframes`
   0% {
     letter-spacing: -0.5em;

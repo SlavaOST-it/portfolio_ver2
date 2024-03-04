@@ -7,7 +7,7 @@ export const projects = [
     {
         id: 1,
         title: "MovieDEX",
-        href: "",
+        href: "https://slavaost-it.github.io/MovieDEX/",
         description: "An online service for finding information about movies, TV series, actors, directors and other movie-related information.\n" +
             "🎬MovieDEX provides movie ratings, reviews and more.",
         img: movieDEX_img,
