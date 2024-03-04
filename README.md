@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+# Портфолио
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Добро пожаловать в мое портфолио! Здесь вы найдете информацию о моих проектах, навыках и опыте работы.
+[Ссылка](https://slavaost-it.github.io/portfolio_ver2)
 
-## Available Scripts
+## Структура портфолио
+- Обо мне: Краткое описание моего опыта работы, образования и интересов.
+- Навыки: Здесь перечислены технологии, языки программирования и инструменты, с которыми я работал.
+- Проекты: В этом разделе представлены мои проекты с описанием, ссылками на репозиторий и демонстрацией, если доступно.
+- Связь: Вы сможете найти способы связаться со мной для обсуждения возможных сотрудничеств и проектов.
 
-In the project directory, you can run:
+## Обо мне
+Привет! Меня зовут Вячеслав Остапкевич и я являюсь веб-разработчиком с опытом работы более 2 лет. Моя цель - создавать качественные и инновационные веб-приложения, которые приносят пользу пользователям. Я постоянно учусь и совершенствуюсь, следя за последними технологическими трендами.
 
-### `yarn start`
+## Навыки
+- React.js
+- TypeScript
+- Redux / Redux Toolkit / RTK Query
+- Axios/ REST API / HTTP
+- SCSS / Styled Components
+- React-hook-form / Formik
+- MaterialUI / Ant Design
+- TDD / Storybook / Postman
+- Git / GitHub
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Проекты
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### MovieDEX
+Онлайн-сервис для поиска информации о кинофильмах, сериалах.
 
-### `yarn test`
+- Ссылка на репозиторий:  [Ссылка](https://github.com/SlavaOST-it/MovieDEX/).
+- Демонстрация проекта: [Ссылка](https://slavaost-it.github.io/MovieDEX/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Education Cards app
+Education Cards app представляет собой приложение для обучения с использованием метода карточек (flashcards). Пользователи могут создавать наборы карточек с вопросами и ответами по различным темам или предметам, что помогает им запомнить информацию более эффективно. Приложение позволяет учиться в удобном формате, повторять материалы и отслеживать прогресс в изучении. Все это делает процесс обучения более интересным и эффективным. 📚🧠✨
 
-### `yarn build`
+- Ссылка на репозиторий: [Ссылка](https://github.com/SlavaOST-it/education-cards).
+- Демонстрация проекта: [Ссылка](https://slavaost-it.github.io/education-cards/#/login).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Social Network - 'DevCircle'
+Social Network DevCircle - это социальная сеть, специально созданная для разработчиков и людей, интересующихся программированием и информационными технологиями. Пользователи могут обмениваться опытом, делиться знаниями, задавать вопросы, обсуждать новейшие технологии и тренды в сфере IT. В приложении также могут быть функциональности для поиска профессиональных контактов, расширения сети деловых связей и возможности для обучения и саморазвития в области компьютерных наук.🔧💻🌐
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Ссылка на репозиторий: [Ссылка](https://github.com/SlavaOST-it/social-network-ver-2).
+- Демонстрация проекта: [Ссылка](https://slavaost-it.github.io/social-network-ver-2).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Todo List
+Приложение Todo List - это инструмент для управления задачами и планирования дел. Пользователи могут создавать списки задач, устанавливать приоритеты, устанавливать сроки выполнения, добавлять описания и пометки к задачам. Данное приложение помогает организовать рабочий процесс, повысить производительность, не забывать о важных делах и структурировать повседневные задачи. 📝⏰📅
 
-### `yarn eject`
+- Ссылка на репозиторий:  [Ссылка](https://github.com/SlavaOST-it/ToDoList).
+- Демонстрация проекта: [Ссылка](https://slavaost-it.github.io/ToDoList).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Связь
+- Электронная почта: slavaost-it@mail.ru
+- Telegram: @SlavaOST
+- Whatsapp: +375296671053
+- Viber: +375296671053
+- LinkedIn: [Профиль](https://www.linkedin.com/in/vyacheslav-ostapkevich-918112254/)
+- GitHub: [Профиль](https://github.com/SlavaOST-it)
+- Беларусь, Минск
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Не стесняйтесь связаться со мной, если у вас есть вопросы или предложения о сотрудничестве. Буду рад услышать ваше мнение! 🚀✨
